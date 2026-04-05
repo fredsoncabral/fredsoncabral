@@ -1,113 +1,56 @@
-# 👋 Olá, eu sou o Fredson Cabral
+# Olá, eu sou o Fredson Cabral! 👋
 
-🎯 **Engenharia e Análise de Dados | BI | SQL | Python | PySpark | Cloud**
+### Engenheiro e Analista de Dados | BI | SQL | Python | PySpark | Cloud
 
-Sou um profissional com mais de 25 anos de experiência em **Supply Chain e Controladoria**, atualmente atuando como **Analista de Dados**, na interseção entre negócio e tecnologia.
-
-Minha missão é transformar dados brutos em **insights estratégicos**, gerando impacto direto nos resultados das empresas.
+Com mais de 25 anos de experiência nas áreas de **Supply Chain e Controladoria**, hoje atuo na intersecção entre o negócio e a tecnologia. [cite_start]Minha trajetória me permite entender profundamente as dores do gestor na ponta e converter dados brutos em ativos estratégicos que salvam operações e equilibram balanços financeiros. [cite: 8, 9, 11]
 
 ---
 
-## 🚀 Sobre mim
+## 🛠️ Habilidades e Tecnologias
 
-- 📊 Experiência sólida em dados aplicada ao negócio  
-- 🔍 Foco em otimização de processos e redução de custos  
-- 🧠 Visão analítica com forte entendimento operacional  
-- 🤝 Ponte entre áreas técnicas e de negócio  
-
-Tenho vivência prática em logística, finanças e operações, o que me permite entender profundamente os desafios reais e propor soluções baseadas em dados.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔧 Engenharia de Dados
-- Python
-- SQL
-- PySpark
-- ETL / ELT
-- Data Lake / Data Warehouse
-- Modelagem de Dados (Star Schema / Snowflake)
-- Microsoft Fabric
-- Databricks
-
-### 📊 Análise e BI
-- Power BI
-- Excel Avançado
-- Criação de KPIs
-- Dashboards interativos
-
-### ☁️ Outros
-- Cloud Computing
-- Integração de dados (APIs, ERP, arquivos)
-- Automação de processos
+- [cite_start]**Engenharia de Dados:** Construção de pipelines, processos ETL/ELT e modelagem em camadas (Bronze, Silver, Gold). [cite: 19, 28]
+- [cite_start]**Linguagens & Ferramentas:** Python, SQL, PySpark, Databricks e Microsoft Fabric. [cite: 19, 30]
+- [cite_start]**Análise & BI:** Visualização de dados avançada com Power BI e Excel, criação de dashboards executivos e monitoramento de KPIs. [cite: 20, 38, 40]
+- [cite_start]**Infraestrutura & Cloud:** Implementação de arquiteturas em ambientes Cloud e conhecimentos em Linux. [cite: 32, 74, 79]
+- [cite_start]**Domínio de Negócio:** Expertise em logística, gestão de estoque, planejamento financeiro (FP&A) e auditoria. [cite: 23]
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência Atual
 
-### 🧑‍💻 Analista de Dados SR | Grupo Transire (2026 - Atual)
-- Desenvolvimento de pipelines de dados escaláveis
-- Implementação de arquiteturas em Data Lake
-- Processos de ETL/ELT com Python, SQL e PySpark
-- Garantia de qualidade, governança e performance dos dados
-
-### 📈 Analista de Controladoria PL | Grupo Transire (2021 - 2025)
-- Criação de dashboards no Power BI
-- Análise de despesas e KPIs logísticos
-- Gestão e validação de custos de frete
-- Monitoramento de estoque e indicadores operacionais
-
-### 🚛 Experiência anterior
-- Logística, operações e customer service em grandes empresas
-- Gestão de equipes, custos e processos operacionais
-- Implantação de melhorias e eficiência logística
+[cite_start]**Analista de Dados Sr @ Grupo Transire** *(Jan/2026 - Atual)* [cite: 25]
+* [cite_start]Desenvolvimento e manutenção de pipelines escaláveis utilizando Python, SQL e PySpark. [cite: 30]
+* [cite_start]Modelagem de dados (Star Schema / Snowflake) para suporte a BI. [cite: 31]
+* [cite_start]Integração de múltiplas fontes (ERP, bancos de dados, arquivos) em ambientes de Data Lake e Data Warehouse. [cite: 27, 31]
+* [cite_start]Otimização de processos visando performance e redução de custos operacionais. [cite: 32]
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação e Certificações
 
-- 📘 Pós-graduação em Engenharia e Arquitetura de Dados (em andamento)
-- 🎓 Graduação em Logística Empresarial
-- 🧾 Técnico em Administração
-
----
-
-## 📚 Certificações
-
-- Python Developer  
-- Python para Data Science  
-- SQL  
-- Power BI  
-- Linux  
-- Lean Six Sigma (White Belt)  
+- [cite_start]**Pós-Graduação:** Engenharia e Arquitetura de Dados – XP Educação (Em andamento). [cite: 14]
+- [cite_start]**Graduação:** Logística Empresarial – Universidade Luterana de Manaus. [cite: 15]
+- **Certificações Recentes:**
+    - [cite_start]Python Developer (DIO/Suzano) & Python para Data Science (DSA). [cite: 73, 75]
+    - [cite_start]Banco de Dados SQL & Power BI para Data Science. [cite: 76, 77]
+    - [cite_start]Linux Essentials (4Linux). [cite: 79]
 
 ---
 
-## 📊 O que você vai encontrar aqui
+## 🚀 Projetos em Destaque
 
-Neste GitHub você encontrará projetos relacionados a:
+*(Dica: Adicione aqui links para os seus repositórios principais)*
 
-- 🔄 Pipelines de dados (ETL/ELT)
-- 🧱 Arquiteturas de dados (Bronze, Silver, Gold)
-- 📊 Dashboards e análises
-- ⚡ Otimização e performance em dados
-- 🐍 Automações com Python
+1.  **[Nome do Projeto]**: Descrição breve da solução (Ex: Pipeline ETL com PySpark para análise logística).
+2.  **[Nome do Projeto]**: Dashboard de Controladoria integrando dados do SAP via Power BI.
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fredson-cabral-dados)
-- 📧 fredsoncbrl@gmail.com
-- 💻 [GitHub](https://github.com/fredsoncabral)
-
----
-
-## ⚡ Frase que me define
-
-> "Dados bem estruturados não apenas explicam o passado — eles constroem o futuro."
+* [cite_start]**LinkedIn:** [linkedin.com/in/fredson-cabral-dados](https://www.linkedin.com/in/fredson-cabral-dados) [cite: 6]
+* [cite_start]**Email:** fredsoncbrl@gmail.com [cite: 4]
+* [cite_start]**Portfólio GitHub:** [github.com/fredsoncabral](https://github.com/fredsoncabral) [cite: 5]
 
 ---
-
-⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
+[cite_start]*Maturidade profissional e competência técnica para gerar impacto direto nos resultados através dos dados.* [cite: 12]
